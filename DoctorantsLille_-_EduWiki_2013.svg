@@ -411,7 +411,7 @@
   </g>
  </g>
  <g id="g5842" style="display:none" inkscape:label="02-Place" transform="translate(0,-302.36)" inkscape:groupmode="layer">
-  <image id="image6270" clip-path="url(#clipPath6275)" xlink:href="file:///home/jfk/Tuile/Presentations/Doctorants-EduWiki-2013-11-01/media/France_location_map-Departements.svg.png" height="961.2" width="1e3" y="302.36" x="0"/>
+  <image id="image6270" clip-path="url(#clipPath6275)" xlink:href="./media/France_location_map-Departements.png" height="961.2" width="1e3" y="302.36" x="0"/>
   <path id="path6283" style="fill:#dc322f" d="m521.68 82.398a22.194 22.194 0 1 1 -44.388 0 22.194 22.194 0 1 1 44.388 0z" transform="matrix(.44828 0 0 .44828 337.83 343.74)"/>
   <text id="text5286-86" style="font-size:99.786px;letter-spacing:0px;word-spacing:0px;line-height:125%;font-family:Linux Libertine Capitals O;display:inline;fill:#000000" y="388.11899" x="18.303638" xml:space="preserve"><tspan id="tspan5288-59" y="388.11899" x="18.303638" style="font-size:99.786px;font-family:Linux Libertine Capitals O;line-height:125%;fill:#000000">Lille?</tspan></text>
   <rect id="rect408-9-9-9-3-9-5-9" style="fill:#fff;display:inline;fill-opacity:0.64" class="license" width="195.8" y="1022.4" x="0" height="30"/>
@@ -754,7 +754,7 @@
    <rect id="rect5513-7-4" style="fill:#74422d" class="title" ry="25" height="100" width="600" y="336.15" x="195.73"/>
    <text id="text5515-9-6" style="font-size:43.815px;font-family:Gill Sans;line-height:100%;fill:#ffffff" xml:space="preserve" class="title" y="398.23416" x="356.28644">Perspectives</text>
   </g>
-  <image id="image6464" style="display:inline" width="1e3" xlink:href="./media/Calendar.jpg" height="800" y="-50" x="0"/>
+  <image id="image6464" style="display:inline" width="1e3" xlink:href="./media/Calendar_Card_-_January.jpg" height="800" y="-50" x="0"/>
   <rect id="rect6679" style="fill:#ceaf90;fill-rule:evenodd" transform="matrix(.99881 -.048699 .037169 .99931 0 0)" height="35.91" width="529.43" y="242.95" x="251.06"/>
   <rect id="rect6681" style="fill:#ceaf91;fill-rule:evenodd" transform="matrix(.99881 -.048699 .037169 .99931 0 0)" height="35.91" width="529.43" y="310.1" x="250.2"/>
   <rect id="rect6683" style="fill:#cbac8d;fill-rule:evenodd" transform="matrix(.99918 -.040375 .044834 .99899 0 0)" height="29.77" width="529.23" y="364.97" x="245.27"/>
@@ -779,7 +779,7 @@
  </g>
  <g id="g5852" style="display:none" inkscape:label="22-FirstSession" inkscape:groupmode="layer">
   <rect id="rect5854" style="display:inline;fill-rule:evenodd" ry="0" height="750" width="1e3" y="0" x="0" inkscape:label="#rectBG"/>
-  <image id="image5186" xlink:href="file:///home/jfk/Tuile/Presentations/Doctorants-EduWiki-2013-11-01/media/Salle.jpg" height="750" width="1e3" y="0" x="0"/>
+  <image id="image5186" xlink:href="./media/Grande_salle_ENC_n1.jpg" height="750" width="1e3" y="0" x="0"/>
   <rect id="rect408-9-9-9-3-9" style="fill:#fff;display:inline;fill-opacity:0.64" class="license" width="471.43" y="720" x="0" height="30"/>
   <text id="text3790-27" style="font-size:20px;letter-spacing:0px;word-spacing:0px;line-height:125%;font-family:Linux Biolinum O;display:inline;fill:#000000" y="740.83929" x="9.8661194" xml:space="preserve"><tspan id="tspan3792-6" y="740.83929" x="9.8661194">Marie-Lan Nguyen / Wikimedia Commons / CC-By 2.5</tspan></text>
   <g id="text5858-2" style="stroke-opacity:.30980;stroke:#000;stroke-width:2.6889;display:inline;fill:none" transform="matrix(.74381 0 0 .74381 214.61 -156.18)">
@@ -848,7 +848,7 @@
  </g>
  <g id="g5914" style="display:none" inkscape:label="24-SecondSession" inkscape:groupmode="layer">
   <rect id="rect5916" style="display:inline;fill-rule:evenodd" ry="0" height="750" width="1e3" y="0" x="0" inkscape:label="#rectBG"/>
-  <image id="image3732" xlink:href="file:///home/jfk/Tuile/Presentations/Doctorants-EduWiki-2013-11-01/media/Reporter_raising_hand_at_US_Army_press_conference.jpg" height="750" width="1125" y="0" x="-14"/>
+  <image id="image3732" xlink:href="./media/Reporter_raising_hand_at_US_Army_press_conference.jpg" height="750" width="1125" y="0" x="-14"/>
   <rect id="rect408-9-9-9-3" style="fill:#fff;fill-opacity:0.64" class="license" width="323.47" y="720" x="0" height="30"/>
   <text id="text3790" style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:Linux Biolinum O;line-height:125%;fill:#000000" y="740.83929" x="9.8661356" xml:space="preserve"><tspan id="tspan3792" y="740.83929" x="9.8661356">Cherie Cullen / DOD / public domain</tspan></text>
   <text id="text5922" style="font-size:92.243px;letter-spacing:0px;text-anchor:middle;word-spacing:0px;text-align:center;font-family:Linux Biolinum O;line-height:89.99999762%;fill:#ffffff" y="667.95807" x="214.83934" xml:space="preserve"><tspan id="tspan5928" y="667.95807" x="214.83934">Q&amp;A</tspan></text>
@@ -1044,7 +1044,7 @@
   <text id="text4255" style="font-size:40px;letter-spacing:0px;word-spacing:0px;font-family:Linux Biolinum O;line-height:125%;fill:#ffffff" xml:space="preserve" transform="rotate(10.574)" y="-110.91112" x="841.14709"><tspan id="tspan4257" x="841.14709" y="-110.91112">Feb 2013</tspan></text>
  </g>
  <g id="layer4" style="display:none" inkscape:label="31-Fields" inkscape:groupmode="layer">
-  <image id="image6201" style="display:inline" width="1235.2" xlink:href="./media/Terrace.jpg" transform="translate(0,-50)" height="800" clip-path="url(#clipPath6222)" y="0" x="-80"/>
+  <image id="image6201" style="display:inline" width="1235.2" xlink:href="./media/Terrace_field_yunnan_china_denoised.jpg" transform="translate(0,-50)" height="800" clip-path="url(#clipPath6222)" y="0" x="-80"/>
   <path id="path4598" d="m252.6-258v171.38 48.283 104.9c0 15.1 8.2275 27.249 18.453 27.249h457.89c10.226 0 18.453-12.149 18.453-27.249v-104.9-48.283-171.38h-494.79z" style="fill-opacity:.83137;fill:#fff;display:inline;fill-rule:evenodd" inkscape:connector-curvature="0"/>
   <text id="text3434-1" style="font-size:80px;letter-spacing:0px;word-spacing:0px;line-height:125%;font-family:Linux Biolinum O;display:inline;fill:#cb4b16" y="75.839996" x="278.24689" xml:space="preserve"><tspan id="tspan3436-6" y="75.839996" x="278.24689" style="font-size:80px;font-family:Linux Biolinum O;line-height:125%;fill:#cb4b16">Various fields</tspan></text>
   <path id="rect6196-0" style="fill-opacity:.83137;fill:#fff;display:inline;fill-rule:evenodd" inkscape:connector-curvature="0" d="m87.297 140.74v171.38 48.283 104.9c0 15.1 13.725 27.249 30.784 27.249h763.84c17.059 0 30.784-12.149 30.784-27.249v-104.9-48.283-171.38h-825.41z"/>
@@ -1155,7 +1155,7 @@
   <text id="text7673" style="font-size:174.98px;letter-spacing:0px;word-spacing:0px;line-height:125%;font-family:Linux Libertine Display Capitals O;display:inline;fill:#ffffff" xml:space="preserve" y="552.5993" x="732.84412"><tspan id="tspan7675" x="732.84412" style="font-size:174.98px;font-family:Linux Libertine Display Capitals O;line-height:125%;fill:#ffffff" y="552.5993">”</tspan></text>
  </g>
  <g id="g5004" style="display:none" inkscape:label="50-Perspectives" inkscape:groupmode="layer">
-  <image id="image5020" xlink:href="file:///home/jfk/Tuile/Presentations/Doctorants-EduWiki-2013-11-01/media/Monocular_Mount_Diablo_bis.jpg" height="750" width="1e3" y="0" x="0"/>
+  <image id="image5020" xlink:href="./media/Monocular_Mount_Diablo.jpg" height="750" width="1e3" y="0" x="0"/>
   <text id="text6106-8" style="font-size:50px;letter-spacing:0px;word-spacing:0px;line-height:100%;font-family:Linux Biolinum O;display:inline;fill:#ffffff" transform="scale(.99098 1.0091)" y="122.78668" x="449.39282" xml:space="preserve"><tspan id="tspan5051" y="122.78668" x="449.39282" style="font-size:50px;font-family:Linux Biolinum O;line-height:100%;fill:#ffffff">Require an article creation</tspan></text>
   <rect id="rect408-9-9-9-3-1" style="fill:#fff;display:inline;fill-opacity:0.64" class="license" width="243.88" y="720" x="0" height="30"/>
   <text id="text3790-28" style="font-size:20px;letter-spacing:0px;word-spacing:0px;line-height:125%;font-family:Linux Biolinum O;display:inline;fill:#000000" y="740.83929" x="9.8661194" xml:space="preserve"><tspan id="tspan3792-2" y="740.83929" x="9.8661194">Daniel Schwen, CC-By-SA</tspan></text>
@@ -1168,7 +1168,7 @@
  </g>
  <g id="g4807" style="display:none" inkscape:label="61-LessonsLearnt-Foreign" inkscape:groupmode="layer">
   <rect id="rect4809" style="display:inline;fill-rule:evenodd" ry="0" height="750" width="1e3" y="0" x="0" inkscape:label="#rectBG"/>
-  <image id="image4837" xlink:href="file:///home/jfk/Tuile/Presentations/Doctorants-EduWiki-2013-11-01/media/Tamil.jpg" height="750" width="1e3" y="0" x="0"/>
+  <image id="image4837" xlink:href="./media/Ancient_Tamil_Script_-_Tanjore_Bragadeeshwara_temple.jpg" height="750" width="1e3" y="0" x="0"/>
   <rect id="rect4813" style="fill:#fff;display:inline;fill-opacity:.83137" ry="61.289" height="218.6" width="808.55" y="-56.75" x="-42.469"/>
   <text id="text4815" style="font-size:70px;letter-spacing:0px;word-spacing:0px;line-height:89.99999762%;font-family:Linux Biolinum O;display:inline;fill:#cb4b16" y="68.860001" x="16.360001" xml:space="preserve"><tspan id="tspan4821" y="68.860001" x="16.360001" style="font-size:70px;font-family:Linux Biolinum O;line-height:89.99999762%;fill:#000000">Contributions in foreign</tspan><tspan id="tspan4849" y="131.86" x="16.360001" style="font-size:70px;font-family:Linux Biolinum O;line-height:89.99999762%;fill:#000000">languages can be…</tspan></text>
   <rect id="rect4823" style="fill:#fff;display:inline;fill-opacity:0.64" class="license" height="30" width="120.41" y="720" x="0"/>
@@ -1178,20 +1178,20 @@
  </g>
  <g id="g5935" style="display:none" inkscape:label="62-LessonsLearnt-AvoidThirdYear" inkscape:groupmode="layer">
   <rect id="rect5937" style="display:inline;fill-rule:evenodd" ry="0" height="750" width="1e3" y="0" x="0" inkscape:label="#rectBG"/>
-  <image id="image4997" xlink:href="file:///home/jfk/Tuile/Presentations/Doctorants-EduWiki-2013-11-01/media/Papers.jpg" height="750" width="864" y="0" x="-60"/>
+  <image id="image4997" xlink:href="./media/FileStack_retouched.jpg" height="750" width="864" y="0" x="-60"/>
   <text id="text5842-7" style="font-size:81.122px;letter-spacing:0px;text-anchor:end;word-spacing:0px;line-height:89.99999762%;text-align:end;font-family:Linux Biolinum O;display:inline;fill:#6c71c4" y="345.58951" x="978.82007" xml:space="preserve"><tspan id="tspan5850-8" x="978.82007" y="345.58951">Avoid</tspan><tspan id="tspan5002" x="978.82007" style="fill:#ffffff" y="418.59897">3rd years</tspan></text>
   <rect id="rect4823-5" style="fill:#fff;display:inline;fill-opacity:0.64" class="license" height="30" width="260.75" y="720" x="0"/>
   <text id="text4825-0" style="font-size:20px;letter-spacing:0px;word-spacing:0px;line-height:125%;font-family:Linux Biolinum O;display:inline;fill:#000000" xml:space="preserve" y="740.83929" x="9.8661346"><tspan id="tspan4827-9" x="9.8661346" y="740.83929">Niklas Bildhauer, CC-By-SA</tspan><tspan id="tspan5000" x="9.8661346" y="765.83929"/></text>
  </g>
  <g id="g5830" style="display:none" inkscape:label="63-LessonsLearnt-HandsOn" inkscape:groupmode="layer">
   <rect id="rect5832" style="display:inline;fill-rule:evenodd" ry="0" height="750" width="1e3" y="0" x="0" inkscape:label="#rectBG"/>
-  <image id="image5241" clip-path="url(#clipPath5246)" xlink:href="file:///home/jfk/Tuile/Presentations/Doctorants-EduWiki-2013-11-01/media/Wikimedia_Hackathon_2013_-_Flickr_-_Sebastiaan_ter_Burg_(9).jpg" height="767" width="1150" y="-17" x="-150"/>
+  <image id="image5241" clip-path="url(#clipPath5246)" xlink:href="./media/Wikimedia_Hackathon_2013_-_Flickr_-_Sebastiaan_ter_Burg_(9).jpg" height="767" width="1150" y="-17" x="-150"/>
   <text id="text5834" style="font-size:99.786px;letter-spacing:0px;word-spacing:0px;line-height:125%;font-family:Linux Biolinum O;display:inline;fill:#dc322f" y="89.650627" x="14.811128" xml:space="preserve"><tspan id="tspan5836" y="89.650627" x="14.811128" style="font-size:99.786px;font-family:Linux Biolinum O;line-height:125%;fill:#dc322f">Quick<tspan id="tspan7121" style="fill:#000000"> hands-on</tspan></tspan></text>
   <rect id="rect4823-5-6" style="fill:#fff;display:inline;fill-opacity:0.64" class="license" height="30" width="260.75" y="720" x="0"/>
   <text id="text4825-0-4" style="font-size:20px;letter-spacing:0px;word-spacing:0px;line-height:125%;font-family:Linux Biolinum O;display:inline;fill:#000000" xml:space="preserve" y="740.83929" x="9.8661346"><tspan id="tspan4827-9-1" x="9.8661346" y="740.83929">Sebastiaan ter Burg, CC-By</tspan><tspan id="tspan5000-8" x="9.8661346" y="765.83929"/></text>
  </g>
  <g id="g5838" style="display:none" inkscape:label="64-LessonsLearnt-PhoneCall" inkscape:groupmode="layer">
-  <image id="image4738" xlink:href="file:///home/jfk/Tuile/Presentations/Doctorants-EduWiki-2013-11-01/media/Telephone_modele_U43-MGR_Lyon-IMG_9923.jpg" height="953.82" width="953.82" y="-3.8216" x="46.178"/>
+  <image id="image4738" xlink:href="./media/Telephone_modele_U43-MGR_Lyon-IMG_9923.jpg" height="950" width="950" y="-3.8216" x="46.178"/>
   <text id="text5842" style="font-size:80px;letter-spacing:0px;word-spacing:0px;line-height:89.99999762%;font-family:Linux Biolinum O;display:inline;fill:#d33682" y="89.650627" x="13.613695" xml:space="preserve"><tspan id="tspan5850" x="13.613695" style="fill:#000000" y="89.650627">Mid-assignment phone call</tspan><tspan id="tspan4749" x="13.613695" y="161.65062">boosts <tspan id="tspan4751" style="fill:#000000">motivation</tspan></tspan></text>
   <text id="text4743" style="font-size:80px;letter-spacing:0px;word-spacing:0px;line-height:89.99999762%;font-family:Linux Biolinum O;display:inline;fill:#000000" y="169.65063" x="13.613695" xml:space="preserve"><tspan id="tspan4745" y="169.65063" x="13.613695"/></text>
   <rect id="rect408-9-9-9-3-4" style="fill:#fff;display:inline;fill-opacity:0.64" class="license" width="323.47" y="720" x="0" height="30"/>
@@ -1199,7 +1199,7 @@
  </g>
  <g id="g4988" style="display:none" inkscape:label="65-LessonsLearnt-Carrot" inkscape:groupmode="layer">
   <rect id="rect4990" style="display:inline;fill-rule:evenodd" ry="0" height="750" width="1e3" y="0" x="0" inkscape:label="#rectBG"/>
-  <image id="image5004" clip-path="url(#clipPath5826)" xlink:href="file:///home/jfk/Tuile/Presentations/Doctorants-EduWiki-2013-11-01/media/Carrots_of_many_colors.jpg" transform="rotate(-90)" height="1209" width="750" y="-118.48" x="-750"/>
+  <image id="image5004" clip-path="url(#clipPath5826)" xlink:href="./media/Carrots_of_many_colors.jpg" transform="rotate(-90)" height="1209" width="750" y="-118.48" x="-750"/>
   <rect id="rect3920" style="fill:#fff;display:inline;fill-opacity:.83137" ry="66.724" height="237.99" width="638" y="256.01" x="181"/>
   <text id="text4992" style="font-size:99.786px;letter-spacing:0px;text-anchor:middle;word-spacing:0px;line-height:89.99999762%;text-align:center;font-family:Linux Biolinum O;display:inline;fill:#cb4b16" y="364.3728" x="499.52524" xml:space="preserve"><tspan id="tspan5820" x="499.52524" style="fill:#000000" y="364.3728">Course credits</tspan><tspan id="tspan4805" x="499.52524" style="fill:#cb4b16" y="454.18021">motivate</tspan></text>
   <rect id="rect408-9-9-9-3-4-1" style="fill:#fff;display:inline;fill-opacity:0.64" class="license" width="384.69" y="720" x="0" height="30"/>
